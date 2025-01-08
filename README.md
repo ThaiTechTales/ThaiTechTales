@@ -11,8 +11,8 @@ Hey there! I'm Thai, a tech enthusiast and an Analyst Cloud Engineer at Deloitte
 
 I'm currently exploring a diverse range of technologies to deepen my expertise and build impactful solutions:
 
-- 🌩️ **AWS**: To harness the power of cloud computing for scalable and secure solutions.
-- 🔧 **Infrastructure as Code (IaC)**: Mastering **Terraform** and **CloudFormation** for efficient and automated deployments.
+- 🌩️ **AWS**: Utilising cloud computing for scalable and secure solutions.
+- 🔧 **Infrastructure as Code (IaC)**: Learning **Terraform** and **CloudFormation** for efficient and automated deployments.
 - 📊 **Data Engineering**: Building robust data pipelines and workflows for actionable insights.
 - 🤖 **Machine Learning**: Leveraging tools like **TensorFlow** for cutting-edge AI models.
 - 🔄 **Kafka**: For managing real-time data streams effectively.
