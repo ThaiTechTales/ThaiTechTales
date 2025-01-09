@@ -17,10 +17,25 @@ I'm currently exploring a diverse range of technologies to deepen my expertise a
 - 📊 **Data Engineering**: Building robust data pipelines and workflows for actionable insights.
 - 🤖 **Machine Learning**: Leveraging tools like **TensorFlow** for cutting-edge AI models.
 - 🔄 **Kafka**: For managing real-time data streams effectively.
+              
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<img align="left" alt="Azure DevOps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br />
 
 
-## 🗂️ Repositories:
-| Technology    | Description                                                                 | Repos                                                                                     |
+## 🗂️ Repositories
+| Repository    | Description                                                                 | Link                                                                                     |
 |---------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | ![AWS](https://img.shields.io/badge/aws-FF9900?style=flat&logo=amazonwebservices&logoColor=white) | AWS is a powerful cloud platform that enables scalable, secure, and cost-effective solutions. I'm learning it to enhance my cloud engineering skills and utlising infrastructure provisioning with Terraform and CloudFormation to ensure efficient and automated deployments. | [![AWS Repo](https://img.shields.io/badge/aws-black?style=flat&logo=github&logoColor=white)](https://github.com/ThaiTechTales/aws) |
 | ![Databricks](https://img.shields.io/badge/databricks-FF3621?style=flat&logo=databricks&logoColor=white) | Databricks simplifies big data analytics and machine learning workflows. I'm diving into it for advanced data engineering projects. | [![Databricks Repo](https://img.shields.io/badge/databricks-black?style=flat&logo=github&logoColor=white)](https://github.com/ThaiTechTales/databricks) |
