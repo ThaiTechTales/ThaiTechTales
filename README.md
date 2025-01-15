@@ -15,7 +15,7 @@ I'm currently exploring a diverse range of technologies to deepen my expertise a
 - 🌩️ **AWS**: Utilising cloud computing for scalable and secure solutions.
 - 🔧 **Infrastructure as Code (IaC)**: Learning **Terraform** and **CloudFormation** for efficient and automated deployments.
 - 📊 **Data Engineering**: Building robust data pipelines and workflows for actionable insights.
-- 🤖 **Machine Learning**: Leveraging tools like **TensorFlow** for cutting-edge AI models.
+- 🤖 **Machine Learning**: Leveraging tools like **PyTorch** for cutting-edge AI models.
 - 🔄 **Kafka**: For managing real-time data streams effectively.
               
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
@@ -24,7 +24,7 @@ I'm currently exploring a diverse range of technologies to deepen my expertise a
 <img align="left" alt="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
 <img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
