@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Heeey!
+## 👋 Heeey! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thai-h-le/) |
 ![Profile Views](https://komarev.com/ghpvc/?username=ThaiTechTales&color=red&style=flat&logo=github)
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-🌟%20brightgreen?style=flat&logo=github&logoColor=white)
