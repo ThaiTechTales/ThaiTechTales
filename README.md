@@ -7,7 +7,7 @@
 
 </div>
 
-Hey there! I'm Thai, a tech enthusiast and an Analyst Cloud Engineer at Deloitte. I’m passionate about learning and creating impactful solutions, and I love working across various technologies, from cloud computing to machine learning. I’m always excited to take on new challenges—whether it’s building scalable systems, diving into real-time data streaming, or exploring cutting-edge AI tools. I believe in pushing boundaries and finding innovative solutions. Let’s keep pushing forward. We got this!
+Hey there! I'm Thai, a tech enthusiast and an Analyst Cloud Engineer at Deloitte. I’m passionate about learning and creating impactful solutions, and I love working across various technologies, from cloud computing to machine learning. I’m always excited to take on new challenges—whether it’s building scalable systems, diving into real-time data streaming, or exploring cutting-edge AI tools. I believe in pushing boundaries and finding innovative solutions. Let’s keep pushing forward.
 
 ## 🛠️ Technologies & Tools:
 I'm currently exploring a diverse range of technologies to deepen my expertise and build impactful solutions:
