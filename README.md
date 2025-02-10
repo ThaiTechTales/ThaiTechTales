@@ -12,11 +12,12 @@ Hey there! I'm Thai, a tech enthusiast and an Analyst Cloud Engineer at Deloitte
 ## 🛠️ Technologies & Tools:
 I'm currently exploring a diverse range of technologies to deepen my expertise and build impactful solutions:
 
-- 🌩️ **AWS & Azure**: Utilising cloud computing for scalable and secure solutions.
-- 🔧 **Infrastructure as Code (IaC)**: Learning **Terraform** and **CloudFormation** for efficient and automated deployments.
-- 📊 **Data Engineering**: Building robust data pipelines and workflows for actionable insights.
-- 🤖 **Machine Learning**: Leveraging tools like **PyTorch** for cutting-edge AI models.
-- 🔄 **Kafka**: For managing real-time data streams effectively.
+- 🌩️ **Cloud Computing:** Architecting scalable and secure cloud solutions using AWS & Azure.
+- 🔧 **Infrastructure Automation:** Automating deployments and infrastructure provisioning with Terraform & CloudFormation.
+- 📊 **Data Engineering:** Building robust data pipelines and workflows with Databricks & Snowflake.
+- 🔄 **Real-Time Data Streaming:** Managing high-throughput event-driven architectures with Kafka.
+- 🤖 **Machine Learning & AI:** Developing deep learning models with PyTorch and exploring AI-driven solutions.
+- 🐳 **Containerization & Orchestration:** Managing and deploying applications efficiently with Docker & Kubernetes.
               
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <img align="left" alt="Azure DevOps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
