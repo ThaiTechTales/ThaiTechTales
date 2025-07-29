@@ -7,7 +7,9 @@
 
 </div>
 
-Hellooo, I'm Thai, a tech enthusiast. I’m passionate about learning and creating impactful solutions, and I love working across various technologies, from cloud computing to machine learning. I’m always excited to take on new challenges, whether it’s building scalable systems, diving into real-time data streaming, or exploring cutting-edge AI tools. I believe in pushing boundaries and finding innovative solutions.
+Hi, I'm Thai. I’m an engineer who enjoys learning, building, and solving meaningful problems with technology. My interests span cloud systems, machine learning, data engineering and real-time data, and I’m always looking for better, more efficient ways to design and deliver solutions that scale.
+
+I’m driven by curiosity and impact. Whether it’s exploring new tools, improving system performance, or collaborating with others to tackle complex challenges, I bring a practical mindset and a deep commitment to getting things done well.
 
 ## 🛠️ Technologies & Tools:
 I'm currently exploring a diverse range of technologies to deepen my expertise and build impactful solutions:
