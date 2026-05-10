@@ -18,6 +18,7 @@ I'm currently exploring a diverse range of technologies to deepen my expertise a
 - 🔧 **Infrastructure Automation:** Automating deployments and infrastructure provisioning with Terraform & CloudFormation.
 - 📊 **Data Engineering:** Building robust data pipelines and workflows.
 - 🔄 **Real-Time Data Streaming:** Managing high-throughput event-driven architectures with Kafka.
+- ⚡ **Stream Processing:** Building scalable real-time data processing applications with Apache Flink.
 - 🤖 **Machine Learning & AI:** Developing deep learning models.
 - 🐳 **Containerization & Orchestration:** Managing and deploying applications efficiently with Docker & Kubernetes.
               
@@ -26,6 +27,7 @@ I'm currently exploring a diverse range of technologies to deepen my expertise a
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <img align="left" alt="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
 <img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img align="left" alt="Flink" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
@@ -44,6 +46,7 @@ I'm currently exploring a diverse range of technologies to deepen my expertise a
 |---------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | ![AWS](https://img.shields.io/badge/aws-FF9900?style=flat&logo=amazonwebservices&logoColor=white) | AWS is a powerful cloud platform that enables scalable, secure, and cost-effective solutions. I'm learning it to enhance my cloud engineering skills and utlising infrastructure provisioning with Terraform and CloudFormation to ensure efficient and automated deployments. | [![AWS Repo](https://img.shields.io/badge/aws-black?style=flat&logo=github&logoColor=white)](https://github.com/ThaiTechTales/aws) |
 | ![Kafka](https://img.shields.io/badge/kafka-231F20?style=flat&logo=apachekafka&logoColor=white) | Kafka is a distributed streaming platform. I'm learning it to manage real-time data pipelines and applications effectively. | [![Kafka Repo](https://img.shields.io/badge/kafka-black?style=flat&logo=github&logoColor=white)](https://github.com/ThaiTechTales/kafka) |
+| ![Flink](https://img.shields.io/badge/flink-E6526F?style=flat&logo=apacheflink&logoColor=white) | Apache Flink is a powerful stream processing framework for stateful real-time data processing. I'm learning it to build scalable event-driven data applications and advanced streaming pipelines. | [![Flink Repo](https://img.shields.io/badge/flink-black?style=flat&logo=github&logoColor=white)](https://github.com/ThaiTechTales/flink) |
 | ![Databricks](https://img.shields.io/badge/databricks-FF3621?style=flat&logo=databricks&logoColor=white) | Databricks simplifies big data analytics and machine learning workflows. I'm diving into it for advanced data engineering projects. | [![Databricks Repo](https://img.shields.io/badge/databricks-black?style=flat&logo=github&logoColor=white)](https://github.com/ThaiTechTales/databricks) |
 | ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) | Docker is essential for containerization, making applications portable and scalable. I'm using it to build, manage, and deploy containerized applications. | [![Docker Repo](https://img.shields.io/badge/docker-black?style=flat&logo=github&logoColor=white)](https://github.com/ThaiTechTales/docker) |
 | ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | Kubernetes simplifies container orchestration. I'm familiarising myself with it for scalable and automated application deployment. | [![Kubernetes Repo](https://img.shields.io/badge/kubernetes-black?style=flat&logo=github&logoColor=white)](https://github.com/ThaiTechTales/kubernetes) |
